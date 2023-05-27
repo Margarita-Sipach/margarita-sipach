@@ -5,13 +5,13 @@
 </ul>
 </div>
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/margarita-sipach/)">
+  <a href="https://www.linkedin.com/in/margarita-sipach/">
     <img src="https://img.shields.io/badge/LinkedIn-indigo?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-gmail-URL](mailto:margarita.sipach@gmail.com)">
+  <a href="mailto:margarita.sipach@gmail.com">
     <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=indigo" alt="Telegram Badge"/>
   </a>
-  <a href="[your-telegram-URL](https://telegram.me/Margarita_Sipach)">
+  <a href="https://telegram.me/Margarita_Sipach">
     <img src="https://img.shields.io/badge/telegram-indigo?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>

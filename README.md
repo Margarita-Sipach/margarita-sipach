@@ -1,7 +1,7 @@
 <div align="center">
 <div id="user-content-toc">
   <ul><summary><h1 style="display: inline-block;"> Hi, I'm Margarita Sipach</h1></summary> 
-<summary><h2 style="display: inline-block;"> Frontend Developer </h2></summary>
+<summary><h2 style="display: inline-block;"> Developer </h2></summary>
 </ul>
 </div>
 <div id="badges">
